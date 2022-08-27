@@ -1,7 +1,6 @@
 ### Olá! 
 
 - 🔭 Atualmente trabalhando com  front-end
-- 🌱 Estudando TypeScript
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
