@@ -1,6 +1,6 @@
 ### Olá! 
 
-- 🔭 Atualmente trabalhando com  front-end
+- 🔭 Front-End Developer
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
